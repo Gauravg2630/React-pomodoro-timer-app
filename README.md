@@ -34,6 +34,7 @@ Click Start to begin timer cycles
 
 🌐 Live Demo
 Check out the live project here:
+(https://gorav-pomodoro-app.netlify.app/)
 
 
 📬 Connect With Me:
